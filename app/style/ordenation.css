@@ -1,0 +1,20 @@
+#array-container {
+    display: flex;
+    gap: 10px;
+}
+
+.array-bar {
+    background-color: #ca1b1b;
+    color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    flex-grow: 1;
+    font-weight: bold;
+    margin: 2%;
+}
+
+#insertInput {
+    margin-right: 10px;
+}
+

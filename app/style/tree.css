@@ -1,0 +1,15 @@
+svg {
+    display: block;
+    margin: 20px auto;
+}
+
+circle {
+    fill: #ca1b1b;
+    stroke: #000000;
+    stroke-width: 2;
+}
+
+line {
+    stroke: #000000;
+    stroke-width: 2;
+}
